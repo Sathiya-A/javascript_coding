@@ -1,0 +1,22 @@
+{
+  "name": "javascript_coding",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "module",
+    "url": "git+https://github.com/Sathiya-A/javascript_coding.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Sathiya-A/javascript_coding/issues"
+  },
+  "homepage": "https://github.com/Sathiya-A/javascript_coding#readme",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
